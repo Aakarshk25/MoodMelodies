@@ -2,19 +2,16 @@
 Welcome to MoodMelodies: Your Personalized Musical Journey
 # MoodMelodies
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 ## Description
 
 MoodMelodies is a web platform that enhances your music experience by curating playlists based on your mood. With two distinct modes, "Joyful Jams" for happy moments and "Tearful Tunes" for reflective times, MoodMelodies provides a personalized soundtrack for every emotion.
 
-## Table of Contents
+## Table of Contents![Screenshot (76)](https://github.com/Aakarshk25/MoodMelodies/assets/132938129/b51f8ba9-777a-4cfd-b720-08f0da7a7585)
+
 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
@@ -49,16 +46,11 @@ If you would like to contribute to MoodMelodies, follow these guidelines:
 4. Push to your branch: `git push origin feature/new-feature`
 5. Open a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
 For any inquiries or feedback, feel free to reach out:
 
 - Your Name
-- Email: your.email@example.com
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- Email: aakarshkumar495@gmail.com.email@example.com
+- GitHub: [Aakarshk25](https://github.com/Aakarshk25)
 
